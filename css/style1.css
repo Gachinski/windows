@@ -21,8 +21,8 @@ body {
     width: 100%;
     border-bottom: 2px solid transparent;
     border-image:   linear-gradient(90deg, rgba(90,126,220,0) 18%, rgba(172,194,242,1) 50%, rgba(90,126,220,0) 82%);
-    /* -moz-border-image: -moz-linear-gradient(90deg, rgba(90, 126, 220, 1) 0%, rgba(172, 194, 242, 1) 50%, rgba(90, 126, 220, 1) 100%);
-    -webkit-border-image: -webkit-linear-gradient(90deg, rgba(90, 126, 220, 1) 0%, rgba(172, 194, 242, 1) 50%, rgba(90, 126, 220, 1) 100%); */
+    -moz-border-image: linear-gradient(90deg, rgba(90,126,220,0) 18%, rgba(172,194,242,1) 50%, rgba(90,126,220,0) 82%);
+    -webkit-border-image:  linear-gradient(90deg, rgba(90,126,220,0) 18%, rgba(172,194,242,1) 50%, rgba(90,126,220,0) 82%);
     border-image-slice: 1;
 }
 
