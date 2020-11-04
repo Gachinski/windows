@@ -58,17 +58,6 @@ body {
     right: 35%;
 }
 
-/* .low-scrin {
-    position: absolute;
-    width: 100vw;
-    height: 100vh;
-    background-color: black;
-    z-index: 100;
-    display: none;
-    overflow-x: hidden;
-    overflow-y: hidden;
-} */
-
 .user-card {
     display: flex;
     align-items: start;
@@ -119,7 +108,6 @@ body {
 }
 
 .loading {
-
     position: absolute;
     top: 40%;
     left: 40%;
@@ -191,13 +179,3 @@ body {
     font-family: Tahoma;
     font-size: 40px;
 }
-
-/* .microsoft2::after {
-    margin-top: -10px;
-    margin-left: -2px;
-    position: absolute;
-    padding: 0;
-    content: '\00ae';
-    font-size: 12px;
-    vertical-align: top;
-} */
